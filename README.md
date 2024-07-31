@@ -9,4 +9,5 @@ meu nome e Gabriel de castro
 *você pode entrar me comtato comigo*
 
 aluraestudante@gmail.com
+
 @aluraestudante
